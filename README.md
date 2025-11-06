@@ -1,11 +1,3 @@
-<div align="center">
-<img src="curie.gif" alt="cuire" width="800px">
-</div>
-
-# TamakEriFever: Google Research Football AI Engine
-
-[kaggle competition](https://www.kaggle.com/c/google-football/)
-
 # Usage
 
 ## Build docker image
